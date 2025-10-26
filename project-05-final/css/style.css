@@ -1,0 +1,50 @@
+/*div {
+  border: 2px solid purple;
+}*/
+
+
+.bodywallpaper {
+  background-image: url('../images/ocean_wall.png');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  display: flex;
+}
+
+.bg {
+    background-color: #dfdfdf;
+}
+
+/*.bg2 {
+    background-color: rgb(255, 230, 107);
+}
+*/
+
+.bgbar{
+  background-color: #052839;
+}
+p {
+  font-family: "Sarabun", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-indent: 50px; 
+}
+
+.ff{
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/*h3 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}*/
+
+
+h4,h5,h6{
+    font-family: "Sarabun", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
